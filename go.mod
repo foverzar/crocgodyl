@@ -1,3 +1,3 @@
-module github.com/parkervcp/crocgodyl
+module crocgodyl
 
 go 1.17
